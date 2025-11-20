@@ -14,7 +14,7 @@ Aplikasi ini dibuat sebagai bagian dari UTS Pemrograman Mobile 2.
 
 ## ✨ Fitur Utama
 
-### Login(SqlLite)
+### Login
 - User harus login sebelum masuk aplikasi
 - Jika belum punya akun, wajib melakukan registrasi
 - Data login disimpan menggunakan SQLite
