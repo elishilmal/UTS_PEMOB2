@@ -1,16 +1,74 @@
-# utspemob
+## Data Diri
+Nama : Elis Hilmal Muhibah Syawalah<br>
+Nim : 23552011313<br>
+Kelas : TIF RP 23 CID B<br>
 
-A new Flutter project.
+# 🎓 Asisten Belajar AI – Aplikasi Pembelajaran Cerdas Berbasis Flutter
 
-## Getting Started
+Asisten Belajar AI adalah aplikasi mobile untuk membantu mahasiswa memahami materi kuliah melalui ringkasan, penjelasan, dan tanya jawab dengan Google Gemini AI.
+Aplikasi ini dibuat sebagai bagian dari UTS Pemrograman Mobile 2.
 
-This project is a starting point for a Flutter application.
+---
+## SplashScreen
+- SplashScreen menampilkan logo dan judul aplikasi sebelum masuk ke halaman login.
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Fitur Utama
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Login(SqlLite)
+- User harus login sebelum masuk aplikasi
+- Jika belum punya akun, wajib melakukan registrasi
+- Data login disimpan menggunakan SQLite
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Register
+- Jika user tidak mempunyai akun maka di haruskan register untuk membuat akun
+- User membuat akun baru dengan email & password
+
+### 🏠 Beranda
+- Menampilkan daftar materi pembelajaran
+- Navigasi ke halaman: Materi Belajar, Tanya AI, Profile, About
+
+### 📘 Materi Belajar
+- Grid List materi belajar
+- Setiap materi dapat dibuka untuk melihat penjelasan dan ringkasan AI
+
+### 🤖 Tanya AI (Gemini)
+- User dapat bertanya tentang penjelasan materi, contoh soal, dan jawaban/langkah pengerjaan
+- Powered by *Google Gemini API*
+
+### 👤 Profile
+- Menampilkan nama & email user
+- Mengedit Profile
+- Tombol Logout
+
+### ℹ About Page
+- Informasi Aplikasi
+- CopyRight
+
+-----------||--------------------------------------------||---------------------||---------------
+## 📸 Screenshot Aplikasi
+
+### Login Page 
+![Login Page](assets/screenshots/login.jpg)
+<br>
+### Reguster Page 
+![Login Page](assets/screenshots/register.jpg)
+<br>
+
+### Beranda  
+![Beranda](assets/screenshots/beranda.jpg)
+<br>
+
+### Materi  
+![Materi](assets/screenshots/materi_belajar.jpg) <br>
+![Ringkas Materi](assets/screenshots/ringkas_materi.jpg) <br>
+
+### Tanya AI  
+![Tanya AI](assets/screenshots/chat_ai.jpg) <br>
+
+### Profile  
+![Profile](assets/screenshots/profile.png) <br>
+![edit Profile](assets/screenshots/edit_profile.png) <br>
+![save Profile](assets/screenshots/save_profile.png) <br>
+
+### About
+![about](assets/screenshots/about.jpg) <br>
