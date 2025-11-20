@@ -66,9 +66,9 @@ Aplikasi ini dibuat sebagai bagian dari UTS Pemrograman Mobile 2.
 ![Tanya AI](assets/screenshots/chat_ai.jpg) <br>
 
 ### Profile  
-![Profile](assets/screenshots/profile.png) <br>
-![edit Profile](assets/screenshots/edit_profile.png) <br>
-![save Profile](assets/screenshots/save_profile.png) <br>
+![Profile](assets/screenshots/profile.jpg) <br>
+![edit Profile](assets/screenshots/edit_profile.jpg) <br>
+![save Profile](assets/screenshots/save_profile.jpg) <br>
 
 ### About
 ![about](assets/screenshots/about.jpg) <br>
